@@ -1,0 +1,74 @@
+commit 2ab37f1b682470b7213ebbb29d6f0e93dafb41c5
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 20:59:07 2023 +0200
+
+    Agregando Dos Párrafos
+
+commit 0dd04cedcc79059f6381dc9f43c2bad9258539e1
+Merge: c86b17d 2cdcb21
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 20:57:10 2023 +0200
+
+    Resolviendo conglito en estaciones del y fechas de inicio
+
+commit c86b17d751808e1beb94a48e6145935431a98784
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 20:43:23 2023 +0200
+
+    Agregando estaciones del año con fecha de inicio
+
+commit 2cdcb21d88e45ac39f28282b1e09b611180340af
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 20:43:23 2023 +0200
+
+    Agregando las estaciones del año
+
+commit 7fa191441ee3328d2af758a192a72954563fb2fc
+Merge: 8d18d5e 9c5cefb
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:42:00 2023 +0200
+
+    resolviendo conflicto merge main/html en el documento index.html
+
+commit 9c5cefbeb7297c0678b3292216cb0df718564285
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:36:45 2023 +0200
+
+    Agregando index.js al index.html
+
+commit 8d18d5ef98a7ea25990ed83e03f21171fffb0c9e
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:35:03 2023 +0200
+
+    Agregando style.css al index.html
+
+commit 702ace890a1a1d8bbf26f61573b55cfab19fa544
+Merge: b965141 a3af23e
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:23:29 2023 +0200
+
+    Merge branch 'js'
+
+commit a3af23e643e222623596345b45d471cece4d2edb
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:14:12 2023 +0200
+
+    Creando el archivo JavaScript
+
+commit b965141b010e65232c7f5ac23ecc8af3ef9cc349
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:10:02 2023 +0200
+
+    Creando un archivo CSS
+
+commit f91649d526c9afeb1c3232f9dcf3139c0a9becf4
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:06:17 2023 +0200
+
+    Creando el index.html
+
+commit d1b03242ec249d62e5ceb71fa73ff1e33ef4e85d
+Author: Daniel Ruiz <danuruiz7@hotmail.com>
+Date:   Fri Jun 9 19:00:19 2023 +0200
+
+    first commit

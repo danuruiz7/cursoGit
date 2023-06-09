@@ -1,0 +1,19 @@
+* 2ab37f1 Agregando Dos Párrafos
+*   0dd04ce Resolviendo conglito en estaciones del y fechas de inicio
+|\  
+| * 2cdcb21 Agregando las estaciones del año
+* | c86b17d Agregando estaciones del año con fecha de inicio
+|/  
+*   7fa1914 resolviendo conflicto merge main/html en el documento index.html
+|\  
+| * 9c5cefb Agregando index.js al index.html
+* | 8d18d5e Agregando style.css al index.html
+* |   702ace8 Merge branch 'js'
+|\ \  
+| * | a3af23e Creando el archivo JavaScript
+* | | b965141 Creando un archivo CSS
+| |/  
+|/|   
+* | f91649d Creando el index.html
+|/  
+* d1b0324 first commit
